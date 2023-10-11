@@ -6,11 +6,11 @@ To run the application, the user should:
 1. Clone the repository to obtain all files. At minimum, you will need all .sql files, milestone3.py, and milestone3App.ui.
 2. Create a database. You will have to change the milestone3.py file to match the credentials for your database.
 3. Construct and populate the database using the .sql files. In order, the following files should be run:
-  1) dickinson_RELATIONS.sql
-  2) zipData.sql
-  3) insertBusiness.sql
-  4) insertCategories.sql & insertReviews.sql
-  5) reviewUpdate.sql
-  6) updateCheckins.sql
-  7) updatePopularity-Success.sql
+  a) dickinson_RELATIONS.sql
+  b) zipData.sql
+  c) insertBusiness.sql
+  d) insertCategories.sql & insertReviews.sql
+  e) reviewUpdate.sql
+  f) updateCheckins.sql
+  g) updatePopularity-Success.sql
 4. run milestone3.py
