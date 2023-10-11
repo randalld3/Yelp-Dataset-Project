@@ -4,8 +4,9 @@ This project builds a Python application which gives the user a platform to acce
 
 To run the application, the user should:
 1. Clone the repository to obtain all files. At minimum, you will need all .sql files, milestone3.py, and milestone3App.ui.
-2. Create a database. You will have to change the milestone3.py file to match the credentials for your database.
-3. Construct and populate the database using the .sql files. In order, the following files should be run:
+2. Unzip insertReviews.zip.
+3. Create a database. You will have to change the milestone3.py file to match the credentials for your database.
+4. Construct and populate the database using the .sql files. In order, the following files should be run:
   a) dickinson_RELATIONS.sql
   b) zipData.sql
   c) insertBusiness.sql
@@ -13,4 +14,4 @@ To run the application, the user should:
   e) reviewUpdate.sql
   f) updateCheckins.sql
   g) updatePopularity-Success.sql
-4. run milestone3.py
+5. run milestone3.py
